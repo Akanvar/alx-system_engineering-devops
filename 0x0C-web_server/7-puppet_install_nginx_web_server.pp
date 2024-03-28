@@ -1,4 +1,4 @@
-etup nginx server
+# Setup nginx server
 
 package { 'nginx':
   ensure     => 'installed',
